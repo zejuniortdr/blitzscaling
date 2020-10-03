@@ -1,5 +1,5 @@
 # 
-![Leitura](https://img.shields.io/badge/Lido-12,5%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-21%25-brightgreen)
 
 # blitzscaling
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51ncewNcVLL._SX331_BO1,204,203,200_.jpg)
@@ -62,3 +62,91 @@ Com isso é difícil para um novo player entrar no mercado e competir com essa g
 5. Nação (10K+)
 
 Número de usuários, clientes e receita anual são outros parâmetros de escala, mas são díficeis de serem atingidos sem a escala organizacional, uma vez que clientes requer atendimento e receita requer vendedores.
+
+## As três principais técnicas do Blitzscaling
+
+### 1. Inovação do modelo de negócios
+- Inovar não é focar no software, tecnologia, produto, design;
+- Não esquecer da compreensão do empreendimento: Como a empresa ganha dinheiro ao atender e adquirir clientes?
+- "Se seu roteiro é o mesmo de seu concorrente, provavalmente estará em apuros, pois é bem provável que ele use sua estratégia com bem mais recursos" - Drew Houston, CEO do Dropbox;
+- Combinar tecnologias emergentes para criar um novo negócio: Smartphone + 4G + GPS = Uber
+- Segredo: Novas techs + distribuição eficaz + clientes em potencial + receita escalável + alta margem + atendimento
+
+### 2. Inovação estratétiga
+- Ter o objetivo e desejo de crescer amplamente;
+- Precisa saber o que pretente e o que não pretende fazer;
+- Retroalimentar a roda, ex Uber: Corridas mais rápidas => mais clientes => mais motoristas => corridas mais rápidas => mais clientes ...
+- Bliztscaling é muito mais que estratégias de crescimento agressivo, pois envolvem decisões que destoam do pensamento tradicional.
+
+
+### 3. Gestão de inovação
+- Triplicar o número de funcionários por ano X aumentar 15% por perfeitos profissionais obscecados pela cultura corporativa
+- Contratar pessoas "boas o suficiente" + lançar produtos imperfeitos + relevar problemas + evitar clientes irritados;
+
+# Parte II - Inovação do modelo de negócios
+
+- Das três, a mais crucial na Era das Redes;
+- Caso Netscape que negligenciou a busca e foi engolida;
+- Modelo de anúncios de texto nas buscas do Google;
+- Airbnb tem mais quartos que qualquer rede hoteleira;
+- Uber > empresas de taxi;
+- Criação de valor = tech inovadora + produtos/serviços inovadores + modelo de negócios inovadores;
+- Definição de modelo de negócios: como gerar retorno financeiro produzindo, vendendo e dando suporte aos produtos;
+- Modelo de negócios ideal: maximizar os quatro principais fatores de crescimento e minimizar dois limitadores;
+
+
+## Projetando o desenvolvimento: Os quatro fatores de crescimento
+
+### 1. Fator de crescimento: Tamanho do mercado
+- Um mercado amplo possui tanto um grande número de potenciais clientes quanto uma variedade d canais eficientes para alcançá-los;
+- "Todos no mundo parece amplo, mas se não puderem ser alcançados, se torna ineficiente;
+- Prever o TAM(Total Available Market) é uma das principais fontes de incertezas do Blitzscaling;
+- Se conseguir ser previsto e com um investimento adequado, é uma das principais oportunidade de altos retornos. Ex: Uber e Airbnb;
+
+### 2. Fator de crescimento: Distribuição
+- Bom produdo bem distribuído domina um Excelente produto mal distribuído;
+- Muitos desafios de distribuição na era dos apps móveis;
+- Técnicas de distribuição se dividem em duas categorias: alavancar a rede de contatos e viralizar;
+
+#### A. Alavancar a rede de contatos
+- Paypal introduziu botão Pague com Paypal no eBay, mesmo havando um concorrente que precisava ser feito de forma manual;
+- Airbnb apostou no compartilhamento de listas no Craiglist;
+
+
+#### B. Viralizar
+- Distirbuição viral: usuários atraem usuários que atraem mais usuários....
+- Orgânica ou incentivada por recompensa;
+- Produto gratuito ou Freemium. Não há uma única companhia que cresceu em larga escala com produto pago;
+- Ideal é combinar as duas estratégias: orgânica + incentivada
+
+### 3. Fator de crescimento: Boas margens brutas
+- Margem bruta = número de vendas - custo de mercadorias vendidas; (melhor indicativo em longo prazo)
+- Software tem vantagem pois tem custo de replicação zero;
+- Amazon e Xiaiomi precificam visando aumento de mercado e não margens;
+
+### 4. Fator de crescimento: Os efeitos de rede
+- Sustenta de forma duradoura;
+- Efeito positivo: Aumento do uso por um usuário aumenta o valor para outros usuários;
+- Ciclo de feddback positivo gera um aprisionamento tecnológico;
+
+#### As cinco categorias dos Efeitos de Rede:
+
+##### 1. Efeitos de Rede Diretos:
+- Aumento do uso = aumento de valor (Ex: Facebook, WeChat, Whatsapp)
+
+##### 2. Efeitos de Rede Indiretos:
+- Aumento do uso estimula consumo de mercadorias complementares, que por fim aumenta o valor (Ex: SO Windows, iOS, Android: estimula devs a criarem apps que aumenta o valor da plataforma)
+
+##### 3. Efeitos de Rede Multilaterais:
+- Aumento do uso por um grupo agrega valor para outro grupo. (Ex: Uber, Ebay, Airbnb)
+
+##### 4. Efeitos de Rede Locais:
+- Aumento do uso por um pequeno grupo de usuários aumenta o valor para um usuário conectado. (Ex: Favoritos não tarifados na época de telefonia móvel por pulso)
+
+##### 5. Compatibilidade e Padrões:
+- Uso de um produto estimula o uso de produtos compatíveis. (Ex: no MS Office, Word se tornou o padrão para documento, destruindo concorrentes.)
+
+#### Os efeitos de rede produzem e demandam crescimento agressivo
+- Ninguém entraria no Facebook se não tivesse amigos lá.
+- O negócio deve superar o ponto crítico: ponto em que a curva da demanda se cruza com a da oferta;
+- Deve-se focar em mercados com nichos expansíveis, para que os mesmos possibilitem a abertura para mercados adjacentes;
