@@ -1,5 +1,5 @@
 # 
-![Leitura](https://img.shields.io/badge/Lido-21%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-24%25-brightgreen)
 
 # blitzscaling
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51ncewNcVLL._SX331_BO1,204,203,200_.jpg)
@@ -97,6 +97,7 @@ Número de usuários, clientes e receita anual são outros parâmetros de escala
 
 ## Projetando o desenvolvimento: Os quatro fatores de crescimento
 
+
 ### 1. Fator de crescimento: Tamanho do mercado
 - Um mercado amplo possui tanto um grande número de potenciais clientes quanto uma variedade d canais eficientes para alcançá-los;
 - "Todos no mundo parece amplo, mas se não puderem ser alcançados, se torna ineficiente;
@@ -112,12 +113,12 @@ Número de usuários, clientes e receita anual são outros parâmetros de escala
 - Paypal introduziu botão Pague com Paypal no eBay, mesmo havando um concorrente que precisava ser feito de forma manual;
 - Airbnb apostou no compartilhamento de listas no Craiglist;
 
-
 #### B. Viralizar
 - Distirbuição viral: usuários atraem usuários que atraem mais usuários....
 - Orgânica ou incentivada por recompensa;
 - Produto gratuito ou Freemium. Não há uma única companhia que cresceu em larga escala com produto pago;
 - Ideal é combinar as duas estratégias: orgânica + incentivada
+
 
 ### 3. Fator de crescimento: Boas margens brutas
 - Margem bruta = número de vendas - custo de mercadorias vendidas; (melhor indicativo em longo prazo)
@@ -128,6 +129,7 @@ Número de usuários, clientes e receita anual são outros parâmetros de escala
 - Sustenta de forma duradoura;
 - Efeito positivo: Aumento do uso por um usuário aumenta o valor para outros usuários;
 - Ciclo de feddback positivo gera um aprisionamento tecnológico;
+
 
 #### As cinco categorias dos Efeitos de Rede:
 
@@ -146,7 +148,32 @@ Número de usuários, clientes e receita anual são outros parâmetros de escala
 ##### 5. Compatibilidade e Padrões:
 - Uso de um produto estimula o uso de produtos compatíveis. (Ex: no MS Office, Word se tornou o padrão para documento, destruindo concorrentes.)
 
+
 #### Os efeitos de rede produzem e demandam crescimento agressivo
 - Ninguém entraria no Facebook se não tivesse amigos lá.
 - O negócio deve superar o ponto crítico: ponto em que a curva da demanda se cruza com a da oferta;
 - Deve-se focar em mercados com nichos expansíveis, para que os mesmos possibilitem a abertura para mercados adjacentes;
+
+
+#### A conectividade proporciona negócios de Efeitos de Rede
+- Internet facilitou a busca por produtos e serviços;
+- Distribuição tem um papel fundamental para o sucesso;
+- Google X Yahoo: Adwords X mídia
+
+
+## Maximixando o desenvolvimento: ois dois limitadores de crescimento
+
+### 1. Limitador de crescimento: Carência de product/market fit
+- Impulsiona o crescimento rápido, porém se ausente torna dispendioso e difícil;
+- Definição: "Estar em um bom mercado, com um produto que atenda"
+- Descobrir uma oportunidade de mercado que haja uma vantagem ou abordagem única;
+- Mais fácil encontrar do que estabelecer;
+
+### 2. Limitador de crescimento: Escalabilidade operacional
+- Projetar um modelo esonômico escalável não é suficiente se não puder ampliar as operações para atender a demanda;
+
+#### Limitações humanas na escalabilidade operacional
+- Manter um mínimo para alcançar o sucesso. (Ex. Whatsapp)
+- Terceirizar. (Ex. Airbnb com fotográfos freelancers)
+- "Faça tudo manualmente até que fique muito difícil, então automatize"
+
