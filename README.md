@@ -1,5 +1,5 @@
 # 
-![Leitura](https://img.shields.io/badge/Lido-24%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-29%25-brightgreen)
 
 # blitzscaling
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51ncewNcVLL._SX331_BO1,204,203,200_.jpg)
@@ -176,4 +176,45 @@ Número de usuários, clientes e receita anual são outros parâmetros de escala
 - Manter um mínimo para alcançar o sucesso. (Ex. Whatsapp)
 - Terceirizar. (Ex. Airbnb com fotográfos freelancers)
 - "Faça tudo manualmente até que fique muito difícil, então automatize"
+
+#### Limitações de infraestrutura na escalabilidade operacional
+- Não importa o volume de demanda se a infraestrutura não suporta; Ex: Friendster (40s para abrir um perfil)
+- Twitter caiu quando Michael Jackson morreu e na copa de 2010;
+- AWS permitiu escalabilidade e modularidade para as empresas;
+
+## Padrões comprovados de modelos de negócios
+
+### 1. BITS em vez de átomos
+- Negócios digitais tem uma margem bruta muito maior, aproveitam da viralização com mais facilidade, menos custo com pessoal para escalar, mais rápido pivotar;
+
+### 2. Plataformas
+- Softwares alcançam distribuição global
+- Plataforma que alcança escalabilidade e se torna padrão do setor obtém uma vantagem competitiva duradoura;
+
+### 3. Gratuito ou Freemium
+- Gratuito facilita distribuição e viralização;
+- Ex. de Freemium bem sucedido: Dropbox;
+
+### 4. Mercados
+- Marketplaces aproveitam do efeito de redes nos dois sentidos. Ex: Airbnb, Alibaba, Ebay;
+- Destaque para benfícios de precificação: Ad Words
+
+### 5. Assinaturas
+- Força do SaaS contra software de caixinha;
+- Diferença na equipe: Vendas em campo + Engenheiros de vendas x equipe adicional 24/7
+
+### 6. Produtos digitais
+- Itens de videogame, compra em aplicativos;
+- Margem bruta de quase 100%;
+
+### 7. Feeds
+- Aumenta engajamento. Ex: Facebook
+- Vendem sua atenção aos anunciantes conforme o que vc já viu, clicou, se envolveu de alguma forma para ser mais assertivo nos anúncios;
+
+## Padrões subjacentes de modelos de negócios
+
+### 1. Lei de Moore
+- Transitores em chips dobram a cada ano;
+- Crescimento computacional dobra a cada 18 meses;
+- Case Netflix: Começou com aluguel de DVDs via correio, por falta da tecnologia de streaming em 1997, mas nunca perdeu o foco de migrar para o online;
 
