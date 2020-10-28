@@ -218,3 +218,16 @@ Número de usuários, clientes e receita anual são outros parâmetros de escala
 - Crescimento computacional dobra a cada 18 meses;
 - Case Netflix: Começou com aluguel de DVDs via correio, por falta da tecnologia de streaming em 1997, mas nunca perdeu o foco de migrar para o online;
 
+### 2. Automação
+- não é somente a produtos, mas também a processos
+- case Apple II x iPhone 5S: 37 anos evolução de 2600x mais rápido;
+
+### 3. Adaptação em vez de otimização
+- foco em melhoria corninua;
+- testes a/b
+- constante experimentação
+- case aws: expandiu de varejo a computação em nuvem;
+
+### 4. Do contra
+- Ser do contra não é que as pessoas estúpidas discordem de vc, mas as inteligentes sim.
+- case aws, google, facebook, airbnb. Todos apostaram em um modelo contra a maioria. Hoje são referência.
